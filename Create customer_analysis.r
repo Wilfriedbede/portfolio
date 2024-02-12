@@ -1,6 +1,6 @@
 ---
 title: "Projet Dataminig"
-author: "Asma-Abir-Younes-Wilfried"
+author: "Wilfried"
 date: "02/06/2020"
 output: rmdformats::readthedown
 rmarkdown::html_document:
